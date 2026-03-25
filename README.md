@@ -51,16 +51,10 @@ The database consists of **7 interlinked tables** connected through Foreign Key 
 
 ## 📈 SQL Analytics Included : 
 
-The project includes SQL queries for analysis such as:
-
-Total tickets booked per movie.
-
-Revenue generated per theatre or show.
-
-Most popular movies and time slots.
-
-Seat occupancy and availability analysis.
-
-Customer booking behavior insights.
-
-These queries help demonstrate data analysis and reporting skills using SQL.
+- The project includes SQL queries for analysis such as:
+- Total tickets booked per movie.
+- Revenue generated per theatre or show.
+- Most popular movies and time slots.
+- Seat occupancy and availability analysis.
+- Customer booking behavior insights.
+- These queries help demonstrate data analysis and reporting skills using SQL.
